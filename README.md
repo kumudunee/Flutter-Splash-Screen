@@ -1,4 +1,7 @@
-# splash_screen
+# splash screen like youtube
+
+![Capture](https://user-images.githubusercontent.com/49120359/137590544-1c3bb781-f3aa-4719-afd0-6a1fbe2fdb49.PNG)
+
 
 A new Flutter application.
 
